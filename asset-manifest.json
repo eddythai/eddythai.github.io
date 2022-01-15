@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.6611f9f5.css",
-    "main.js": "/static/js/main.e5b6cbed.js",
+    "main.css": "/static/css/main.2d1d48fd.css",
+    "main.js": "/static/js/main.5f830686.js",
     "static/media/sapa.jpg": "/static/media/sapa.ac6b0cd8ab5c0707d49d.jpg",
+    "static/media/tetris.gif": "/static/media/tetris.efaca9505091936d2238.gif",
     "static/media/waikiki.jpg": "/static/media/waikiki.da7a26ece394ca68be3b.jpg",
     "static/media/halongbay.jpg": "/static/media/halongbay.9e4e262195d63b803ac7.jpg",
     "static/media/beach.jpg": "/static/media/beach.2ab6a8a051009f281399.jpg",
@@ -11,14 +12,22 @@
     "static/media/beach3.jpg": "/static/media/beach3.7547fce58311c7abb841.jpg",
     "static/media/beach22.jpg": "/static/media/beach22.fb77b6548a62b02730ca.jpg",
     "static/media/beachnight.jpg": "/static/media/beachnight.9b592e38099f0bf183f4.jpg",
+    "static/media/valorant.png": "/static/media/valorant.1b7b7696fa8b8ac6a349.png",
+    "static/media/jjk.jpg": "/static/media/jjk.69c78a9f371b028d3de0.jpg",
+    "static/media/your name.jpg": "/static/media/your name.c5532e50687ca0828b43.jpg",
     "static/media/waikiki (2).jpg": "/static/media/waikiki (2).9b0778ad270c66611a51.jpg",
     "static/media/me.png": "/static/media/me.00fc137ff1c60259606c.png",
+    "static/media/walk1.jpg": "/static/media/walk1.3e11df613b15bb2a4018.jpg",
+    "static/media/walk2.jpg": "/static/media/walk2.3594851679b9e54b58ec.jpg",
+    "static/media/walk3.jpg": "/static/media/walk3.5b2f33e449a2c6992371.jpg",
+    "static/media/minesweeper.png": "/static/media/minesweeper.e28f9998e1c95885ccdc.png",
+    "static/media/dragme.png": "/static/media/dragme.1606c08ae5fa57ee1470.png",
     "index.html": "/index.html",
-    "main.6611f9f5.css.map": "/static/css/main.6611f9f5.css.map",
-    "main.e5b6cbed.js.map": "/static/js/main.e5b6cbed.js.map"
+    "main.2d1d48fd.css.map": "/static/css/main.2d1d48fd.css.map",
+    "main.5f830686.js.map": "/static/js/main.5f830686.js.map"
   },
   "entrypoints": [
-    "static/css/main.6611f9f5.css",
-    "static/js/main.e5b6cbed.js"
+    "static/css/main.2d1d48fd.css",
+    "static/js/main.5f830686.js"
   ]
 }
