@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.16608d4b.css",
-    "main.js": "/static/js/main.c8cffab1.js",
+    "main.css": "/static/css/main.6611f9f5.css",
+    "main.js": "/static/js/main.e5b6cbed.js",
+    "static/media/sapa.jpg": "/static/media/sapa.ac6b0cd8ab5c0707d49d.jpg",
+    "static/media/waikiki.jpg": "/static/media/waikiki.da7a26ece394ca68be3b.jpg",
+    "static/media/halongbay.jpg": "/static/media/halongbay.9e4e262195d63b803ac7.jpg",
     "static/media/beach.jpg": "/static/media/beach.2ab6a8a051009f281399.jpg",
+    "static/media/walk.jpg": "/static/media/walk.47efd321d1002d8cb857.jpg",
+    "static/media/cancun.jpg": "/static/media/cancun.65974dee7c981ca2fbad.jpg",
+    "static/media/beach3.jpg": "/static/media/beach3.7547fce58311c7abb841.jpg",
+    "static/media/beach22.jpg": "/static/media/beach22.fb77b6548a62b02730ca.jpg",
     "static/media/beachnight.jpg": "/static/media/beachnight.9b592e38099f0bf183f4.jpg",
+    "static/media/waikiki (2).jpg": "/static/media/waikiki (2).9b0778ad270c66611a51.jpg",
+    "static/media/me.png": "/static/media/me.00fc137ff1c60259606c.png",
     "index.html": "/index.html",
-    "main.16608d4b.css.map": "/static/css/main.16608d4b.css.map",
-    "main.c8cffab1.js.map": "/static/js/main.c8cffab1.js.map"
+    "main.6611f9f5.css.map": "/static/css/main.6611f9f5.css.map",
+    "main.e5b6cbed.js.map": "/static/js/main.e5b6cbed.js.map"
   },
   "entrypoints": [
-    "static/css/main.16608d4b.css",
-    "static/js/main.c8cffab1.js"
+    "static/css/main.6611f9f5.css",
+    "static/js/main.e5b6cbed.js"
   ]
 }
